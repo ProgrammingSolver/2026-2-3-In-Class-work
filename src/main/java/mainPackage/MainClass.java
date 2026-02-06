@@ -16,6 +16,8 @@ public class MainClass {
 			newObj.printBuckets(System.out);
 
 			newObj.remove(7);
+			//Abdur Rahman edit 2/5/26
+			newObj.remove(5);
 		}
 
 		catch (AndrewClassException e) {
